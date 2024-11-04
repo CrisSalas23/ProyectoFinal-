@@ -1,8 +1,8 @@
 Comidas de la semana:
-Lunes: Pavo al horno con batatas
-Martes: Sandwich integral de verdura
-Miercoles: Pescado al horno o a la parrilla
-Jueves: Ensaladas variadas
-Viernes: Tacos de pescado o camarones
-Sabado: Pescado al horno o a la parrilla
-Domingo: Tortilla de zapallito
+Lunes: Sopa de verduras
+Martes: Tacos de pescado
+Miercoles: Huevos revueltos
+Jueves: Pescado al horno
+Viernes: Tacos de pescado
+Sabado: Pescado al horno
+Domingo: Pescado al horno
